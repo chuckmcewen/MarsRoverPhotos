@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRoverPhotos", "src\MarsRoverPhotos.csproj", "{83843F3D-2ED7-4D5D-B33D-D9F83E44328A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{847C6608-9C93-4E70-8747-F4E234F100F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{CC812BF2-8819-49C7-B373-477A14408C3E}"
+	ProjectSection(SolutionItems) = preProject
+		test\dates.txt = test\dates.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83843F3D-2ED7-4D5D-B33D-D9F83E44328A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83843F3D-2ED7-4D5D-B33D-D9F83E44328A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83843F3D-2ED7-4D5D-B33D-D9F83E44328A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83843F3D-2ED7-4D5D-B33D-D9F83E44328A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{83843F3D-2ED7-4D5D-B33D-D9F83E44328A} = {847C6608-9C93-4E70-8747-F4E234F100F9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9000DBF-AABD-4A8C-AF6C-B41D14AB8430}
+	EndGlobalSection
+EndGlobal
